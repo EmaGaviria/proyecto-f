@@ -1,17 +1,16 @@
-/* ===== IMPORTAR TIPOGRAFÍA BONITA ===== */
+
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&family=Poppins:wght@300;400;600&display=swap');
 
-/* ===== ESTILO GENERAL ===== */
 body {
   margin: 0;
   padding: 0;
   font-family: "Poppins", sans-serif;
-  background: linear-gradient(135deg, #3a0ca3, #4361ee, #240046);
+  background: linear-gradient(135deg, #802070, #4361ee, #240046);
   background-attachment: fixed;
   color: white;
 }
 
-/* ===== NAVBAR ===== */
+
 .navbar {
   width: 100%;
   padding: 18px;
@@ -20,11 +19,13 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 4px 18px rgba(0,0,0,0.4);
   margin-bottom: 25px;
 }
 
-/* TITULO LINDO */
+
+/*Titulo lindo*/
+
 .navbar h1 {
   font-family: "Orbitron", sans-serif;
   font-size: 36px;
@@ -46,7 +47,8 @@ body {
   max-width: 450px;
 }
 
-/*  CATEGORIAS  */
+
+/* Categorias */
 
 .contenedor-categorias {
   margin: 25px auto;
@@ -76,8 +78,7 @@ body {
 }
 
 
-/* GRID DE JUEGOS  */
-
+/* grid de juegos */
 
 .grid-juegos {
   max-width: 1100px;
@@ -91,7 +92,7 @@ body {
   background: rgba(255, 255, 255, 0.1);
   padding: 15px;
   border-radius: 18px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
   transition: 0.3s;
 }
 

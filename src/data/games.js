@@ -1,4 +1,4 @@
- export const juegos = [
+export const juegos = [
   {
     _id: "1",
     titulo: "Roblox",
@@ -6,9 +6,9 @@
     plataforma: "Nintendo Switch",
     añoLanzamiento: 2017,
     desarrollador: "Nintendo",
-    imagenPortada: "/img/roblox.png", 
+    imagenPortada: "/img/roblox.png",
     descripcion: "Un mundo abierto lleno de libertad donde puedes explorar, luchar y descubrir secretos.",
-    
+
   },
   {
     _id: "2",
@@ -19,7 +19,7 @@
     desarrollador: "Santa Monica Studio",
     imagenPortada: "https://i.imgur.com/2yaf2wb.jpeg",
     descripcion: "Kratos y su hijo Atreus se embarcan en una aventura épica entre dioses nórdicos.",
-    
+
   },
   {
     _id: "3",
@@ -30,7 +30,7 @@
     desarrollador: "Mojang",
     imagenPortada: "",
     descripcion: "Construye, explora y sobrevive en un mundo abierto de bloques infinitos.",
-    
+
   },
   {
     _id: "4",
@@ -41,7 +41,7 @@
     desarrollador: "CD Projekt Red",
     imagenPortada: "",
     descripcion: "Geralt busca a Ciri en un mundo oscuro lleno de monstruos, política y decisiones difíciles.",
-   
+
   },
   {
     _id: "5",
@@ -52,7 +52,7 @@
     desarrollador: "Epic Games",
     imagenPortada: "",
     descripcion: "Compite contra 100 jugadores en partidas rápidas y llenas de acción.",
-    
+
   },
   {
     _id: "6",
@@ -63,7 +63,7 @@
     desarrollador: "Rockstar Games",
     imagenPortada: "",
     descripcion: "Un western impresionante que sigue la historia de Arthur Morgan en un mundo abierto detallado.",
-    
+
   },
   {
     _id: "7",
@@ -74,7 +74,7 @@
     desarrollador: "Blizzard",
     imagenPortada: "",
     descripcion: "Shooter por equipos con héroes únicos y un estilo visual muy llamativo.",
-    
+
   },
   {
     _id: "8",
@@ -85,7 +85,7 @@
     desarrollador: "343 Industries",
     imagenPortada: "",
     descripcion: "El Jefe Maestro regresa en una aventura épica con un nuevo mundo semiabierto.",
-   
+
   },
   {
     _id: "9",
@@ -96,7 +96,7 @@
     desarrollador: "Rockstar Games",
     imagenPortada: "",
     descripcion: "Tres protagonistas, un mundo enorme y millones de posibilidades.",
-    
+
   },
   {
     _id: "10",
@@ -107,7 +107,7 @@
     desarrollador: "Riot Games",
     imagenPortada: "",
     descripcion: "Juego competitivo 5v5 donde dos equipos luchan por destruir el nexo enemigo.",
-    
+
   },
   {
     _id: "11",
@@ -118,7 +118,7 @@
     desarrollador: "Nintendo",
     imagenPortada: "",
     descripcion: "Acompaña a Mario alrededor del mundo para rescatar a la princesa Peach.",
-   
+
   },
   {
     _id: "12",
@@ -129,7 +129,7 @@
     desarrollador: "CD Projekt Red",
     imagenPortada: "",
     descripcion: "Un mundo futurista lleno de acción, tecnología y decisiones que cambian la historia.",
-   
+
   }
 
 ];
