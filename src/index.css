@@ -1,0 +1,12 @@
+/* ===== IMPORTAR TIPOGRAFÍA BONITA ===== */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&family=Poppins:wght@300;400;600&display=swap');
+
+/* ===== ESTILO GENERAL ===== */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(135deg, #3a0ca3, #4361ee, #240046);
+  background-attachment: fixed;
+  color: white;
+}
